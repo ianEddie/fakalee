@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.creepster {
+  font-family: "creepster";
+}
+.yellowtail {
+  font-family: "yellowtail";
+}
